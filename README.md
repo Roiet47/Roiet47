@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rohit Kumar Yadav 👋</h1>
+<h1 align="center">Hi, I'm Rohit Yadav 👋</h1>
 <h3 align="center">A passionate learner from Tech world</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit-kumar-yadav&row=1&margin-w=18" alt="rohit-kumar-yadav" /></a> </p>
